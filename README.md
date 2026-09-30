@@ -42,7 +42,7 @@ The default experiment configurations use these input and parameter files:
 
 `wudaoliang-smap.csv` is also included, but is not referenced by the current default script configurations.
 
-Check the source, license, redistribution terms, and repository size of the forcing and observation data before making the repository public. If you do not have permission to redistribute the data, provide instructions for obtaining it and keep the files out of the repository.
+Confirm the source, license, and redistribution terms for the forcing and observation data before redistributing them. If redistribution is not permitted, remove the data files from the repository and provide instructions for obtaining them instead.
 
 ## Running
 
