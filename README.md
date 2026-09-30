@@ -53,6 +53,7 @@ Confirm the source, license, and redistribution terms for the forcing and observ
 Run commands from the project directory so the data and parameter paths used by the assimilation scripts resolve correctly.
 
 ```powershell
+python generate_default_txt.py
 python cycling_enkf_jax_relative_error.py
 python cycling_ekf_jax_relative_error.py
 python optimization_minibatch_margin.py

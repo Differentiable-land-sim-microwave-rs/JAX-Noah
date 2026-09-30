@@ -10,3 +10,4 @@ venv/
 *_outputs/
 minibatch_loss.png
 satellite_comparison.png
+Noah_output_jax.txt
