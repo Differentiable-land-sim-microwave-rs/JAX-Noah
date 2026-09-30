@@ -2,6 +2,15 @@
 
 A JAX-based Noah land-surface model with soil-moisture data assimilation and parameter-optimization scripts.
 
+## Authors and Affiliations
+
+Yu Zhang<sup>1,2,#</sup>, Pei Zhang<sup>2,#</sup>, Donghai Zheng<sup>2</sup>, Haishen Lv<sup>1</sup>, Bob Su<sup>3</sup>, Patricia de Rosnay<sup>4</sup>, Xin Li<sup>2</sup>
+
+1. State Key Laboratory of Water Disaster Prevention, College of Hydrology and Water Resources, Hohai University, Nanjing, China
+2. National Tibetan Plateau Data Center, State Key Laboratory of Tibetan Plateau Earth System, Environment and Resources, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing, China
+3. Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede, the Netherlands
+4. European Centre for Medium-Range Weather Forecasts, Reading, United Kingdom
+
 ## Project Attribution
 
 JAX-Noah is developed through collaboration between the Institute of Tibetan Plateau Research, Chinese Academy of Sciences (中国科学院青藏高原研究所), and the College of Hydrology and Water Resources, Hohai University (河海大学水文水资源学院).
