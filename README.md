@@ -10,7 +10,11 @@ JAX-Noah is developed through collaboration between the Institute of Tibetan Pla
 - JAX-Noah coding and testing: PhD student Yu Zhang (张羽), College of Hydrology and Water Resources, Hohai University.
 - Research collaboration: Postdoctoral researcher Pei Zhang (张佩), Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Professor Haishen Lü (吕海深), College of Hydrology and Water Resources, Hohai University.
 
-This attribution records project collaboration and contributions. Copyright ownership and licensing of original project code and research outputs are subject to applicable institutional policies and collaboration agreements. Third-party code, parameter tables, and datasets remain subject to their respective source licenses and terms; this attribution does not grant rights to redistribute them.
+This attribution records project collaboration and contributions. The original JAX-Noah software source code in this repository is licensed under the MIT License in `LICENSE`, with copyright attributed to the collaborating institutions. The license does not cover third-party code, parameter tables, datasets, or other materials; those remain subject to their respective licenses and terms. Ownership of research outputs is subject to applicable institutional policies and collaboration agreements.
+
+## Acknowledgements
+
+We thank the authors and developers of NoahPy. JAX-Noah reuses and adapts portions of NoahPy's code. NoahPy-derived portions are not relicensed by this project; their original copyright notices and license terms continue to apply.
 
 ## Requirements
 
