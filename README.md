@@ -2,6 +2,16 @@
 
 A JAX-based Noah land-surface model with soil-moisture data assimilation and parameter-optimization scripts.
 
+## Project Attribution
+
+JAX-Noah is developed through collaboration between the Institute of Tibetan Plateau Research, Chinese Academy of Sciences (中国科学院青藏高原研究所), and the College of Hydrology and Water Resources, Hohai University (河海大学水文水资源学院).
+
+- Project lead: Researcher Donghai Zheng (郑东海), Institute of Tibetan Plateau Research, Chinese Academy of Sciences.
+- JAX-Noah coding and testing: PhD student Yu Zhang (张羽), College of Hydrology and Water Resources, Hohai University.
+- Research collaboration: Postdoctoral researcher Pei Zhang (张佩), Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Professor Haishen Lü (吕海深), College of Hydrology and Water Resources, Hohai University.
+
+This attribution records project collaboration and contributions. Copyright ownership and licensing of original project code and research outputs are subject to applicable institutional policies and collaboration agreements. Third-party code, parameter tables, and datasets remain subject to their respective source licenses and terms; this attribution does not grant rights to redistribute them.
+
 ## Requirements
 
 - Python 3.10 or newer
