@@ -1,0 +1,7 @@
+jax
+numpy
+pandas
+optax
+matplotlib
+optuna
+cmaes
