@@ -104,9 +104,9 @@ The scripts contain experiment-specific input paths and settings near their conf
 
 JAX-Noah is developed through collaboration between the Institute of Tibetan Plateau Research, Chinese Academy of Sciences (中国科学院青藏高原研究所), and the College of Hydrology and Water Resources, Hohai University (河海大学水文水资源学院).
 
-- Project lead: Researcher Donghai Zheng (郑东海), Institute of Tibetan Plateau Research, Chinese Academy of Sciences.
+- Project lead: Professor Donghai Zheng (郑东海), Institute of Tibetan Plateau Research, Chinese Academy of Sciences.
 - JAX-Noah coding and testing: PhD student Yu Zhang (张羽), College of Hydrology and Water Resources, Hohai University.
-- Research collaboration: Postdoctoral researcher Pei Zhang (张佩) and Researcher Xin Li (李新), Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Professor Haishen Lü (吕海深), College of Hydrology and Water Resources, Hohai University.
+- Research collaboration: Postdoctoral researcher Pei Zhang (张佩) and Professor Xin Li (李新), Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Professor Haishen Lü (吕海深), College of Hydrology and Water Resources, Hohai University.
 
 This attribution records project collaboration and contributions. The original JAX-Noah software source code in this repository is licensed under the MIT License in `LICENSE`, with copyright attributed to the collaborating institutions. The license does not cover third-party code, parameter tables, datasets, or other materials; those remain subject to their respective licenses and terms. Ownership of research outputs is subject to applicable institutional policies and collaboration agreements.
 
