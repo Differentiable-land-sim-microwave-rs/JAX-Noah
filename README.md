@@ -72,7 +72,7 @@ Run the scripts below from the project directory. The project team reports that 
 
 | Script | Purpose | Main inputs and outputs |
 | --- | --- | --- |
-| `generate_default_txt.py` | Runs the default Noah-A simulation. | Reads `wudaoliang-forcing_cmfd.txt` and parameter tables; writes `Noah_output_jax.txt` by default. Accepts `--forcing` and `--output` path overrides. |
+| `generate_default_txt.py` | Runs the default JAX-Noah simulation. | Reads `wudaoliang-forcing_cmfd.txt` and parameter tables; writes `Noah_output_jax.txt` by default. Accepts `--forcing` and `--output` path overrides. |
 | `cycling_ekf_jax_relative_error.py` | Runs soil-moisture data assimilation with the Extended Kalman Filter (EKF). | Reads the forcing file, SMAP observations, and parameter tables; writes the result configured by `OUTPUT_FILE` and an exception log. |
 | `cycling_enkf_jax_relative_error.py` | Runs deterministic Ensemble Kalman Filter (EnKF) data assimilation. | Reads the forcing file, SMAP observations, and parameter tables; writes the result configured by `OUTPUT_FILE` and an exception log. |
 | `optimization_minibatch_margin.py` | Trains soil parameters with differentiable mini-batch gradient optimization against SMAP observations. | Reads forcing, SMAP, and soil parameter files; writes optimized parameters, fit time series, and diagnostic plots in the project directory. |
