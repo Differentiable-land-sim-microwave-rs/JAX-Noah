@@ -12,8 +12,6 @@ JAX-Noah comprises three tightly coupled modules. The land-surface process simul
 
 Automatic differentiation provides model sensitivities and parameter gradients, while JIT compilation and vectorized execution support repeated model evaluations. Together, these capabilities establish a unified differentiable framework and may facilitate future development of variational data assimilation within JAX-Noah.
 
-![JAX-Noah model overview](picture/combine.png)
-
 ## Platform Overview
 
 JAX-Noah unifies land-surface process simulation, sequential data assimilation, and parameter optimization in a single JAX-based computational framework. It retains the process-level equations and parameterizations of the Noah-A land surface model (LSM), while implementing differentiable model components with JAX operations to preserve physical interpretability.
